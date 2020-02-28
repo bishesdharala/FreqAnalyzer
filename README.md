@@ -8,5 +8,5 @@ Middle click to auto-axis or reset\
 Double click inside graph dialog for Graph Stats\
 
 
-***** INSTALLATION GUIDE *****
+***** INSTALLATION GUIDE *****\
 Run FreqAnalyzer.application
