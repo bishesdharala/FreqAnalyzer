@@ -2,4 +2,7 @@
 Realtime Microphone PCM and FFT data !!
 
 
-Left click hold for repositioning and Right click drag for resizing Graph.....................
+*Left click drag to pan
+*Right click drag to zoom
+*Middle click to auto-axis or reset
+*Double click inside graph dialog for Graph Stats
